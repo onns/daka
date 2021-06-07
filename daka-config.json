@@ -1,0 +1,44 @@
+{
+    "chromedriverAddress": "D:\\chromedriver",
+    "people": [
+        {
+            "isDaka": false,
+            "time": "09:05",
+            "xmuid": "学号1",
+            "password": "密码1",
+            "email": "邮箱1",
+            "emailName": "姓名1",
+            "emailTitle": "打卡结果",
+            "emailSuccessText": "打卡成功",
+            "emailFailText": "打卡失败#",
+            "emailRepeatText": "已经打卡",
+            "emailCheckText": "打卡检查失败，可能原因是chromedriver版本不对，请检查并自行打卡"
+        },
+        {
+            "isDaka": false,
+            "time": "10:17",
+            "xmuid": "学号2",
+            "password": "密码2",
+            "email": "邮箱2",
+            "emailName": "姓名2",
+            "emailTitle": "打卡结果",
+            "emailSuccessText": "打卡成功",
+            "emailFailText": "打卡失败#",
+            "emailRepeatText": "已经打卡",
+            "emailCheckText": "打卡检查失败，可能原因是chromedriver版本不对，请检查并自行打卡"
+        },
+        {
+            "isDaka": false,
+            "time": "10:42",
+            "xmuid": "学号3",
+            "password": "密码3",
+            "email": "邮箱3",
+            "emailName": "姓名3",
+            "emailTitle": "打卡结果",
+            "emailSuccessText": "打卡成功",
+            "emailFailText": "打卡失败#",
+            "emailRepeatText": "已经打卡",
+            "emailCheckText": "打卡检查失败，可能原因是chromedriver版本不对，请检查并自行打卡"
+        }
+    ]
+}
